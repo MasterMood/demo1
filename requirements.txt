@@ -1,0 +1,7 @@
+mysql-connector-python
+python-dotenv
+streamlit
+streamlit-extras
+PyPDF2
+Pillow
+groq 

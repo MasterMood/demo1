@@ -1,0 +1,2666 @@
+{
+    "web_development": [
+        {
+            "question_text": "What does HTML stand for?",
+            "options": [
+                "Hyper Text Markup Language",
+                "High Text Markup Language",
+                "Hyper Tabular Markup Language",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "HTML stands for Hyper Text Markup Language."
+        },
+        {
+            "question_text": "Which of the following is the correct HTML element for the largest heading?",
+            "options": [
+                "<h1>",
+                "<heading>",
+                "<h6>",
+                "<h5>"
+            ],
+            "correct_answer": 0,
+            "explanation": "<h1> is the correct HTML element for the largest heading."
+        },
+        {
+            "question_text": "What is the correct HTML element for inserting a line break?",
+            "options": [
+                "<break>",
+                "<br>",
+                "<lb>",
+                "<line>"
+            ],
+            "correct_answer": 1,
+            "explanation": "<br> is the correct HTML element for inserting a line break."
+        },
+        {
+            "question_text": "Which HTML attribute is used to define inline styles?",
+            "options": [
+                "style",
+                "class",
+                "font",
+                "styles"
+            ],
+            "correct_answer": 0,
+            "explanation": "The style attribute is used to define inline styles."
+        },
+        {
+            "question_text": "Which of the following is a valid HTML color?",
+            "options": [
+                "#ff0000",
+                "red",
+                "rgb(255, 0, 0)",
+                "All of the above"
+            ],
+            "correct_answer": 3,
+            "explanation": "All mentioned options are valid ways to define colors in HTML."
+        },
+        {
+            "question_text": "What does CSS stand for?",
+            "options": [
+                "Cascading Style Sheets",
+                "Colorful Style Sheets",
+                "Computer Style Sheets",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "CSS stands for Cascading Style Sheets."
+        },
+        {
+            "question_text": "Which of the following is a valid CSS selector?",
+            "options": [
+                "#id",
+                ".class",
+                "element",
+                "All of the above"
+            ],
+            "correct_answer": 3,
+            "explanation": "All mentioned options are valid CSS selectors."
+        },
+        {
+            "question_text": "What is the purpose of the <div> tag in HTML?",
+            "options": [
+                "To create a division or section",
+                "To create a hyperlink",
+                "To create a list",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "<div> is used to create a division or section in an HTML document."
+        },
+        {
+            "question_text": "Which of the following is used to link an external CSS file?",
+            "options": [
+                "<link rel='stylesheet' href='style.css'>",
+                "<style src='style.css'>",
+                "<css href='style.css'>",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "<link rel='stylesheet' href='style.css'> is used to link an external CSS file."
+        },
+        {
+            "question_text": "What is the purpose of the <meta> tag in HTML?",
+            "options": [
+                "To provide metadata about the HTML document",
+                "To create a link",
+                "To define a script",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "<meta> tags provide metadata about the HTML document."
+        },
+        {
+            "question_text": "Which of the following is a JavaScript framework?",
+            "options": [
+                "React",
+                "Django",
+                "Ruby on Rails",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "React is a popular JavaScript framework."
+        },
+        {
+            "question_text": "What is the output of the following JavaScript code: console.log(typeof 'Hello');?",
+            "options": [
+                "string",
+                "String",
+                "text",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "The typeof operator returns 'string' for string values."
+        },
+        {
+            "question_text": "Which of the following is used to prevent default action in JavaScript?",
+            "options": [
+                "event.preventDefault()",
+                "event.stopPropagation()",
+                "event.stopImmediatePropagation()",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "event.preventDefault() is used to prevent the default action of an event."
+        },
+        {
+            "question_text": "What is the purpose of the 'this' keyword in JavaScript?",
+            "options": [
+                "To refer to the global object",
+                "To refer to the current object",
+                "To refer to the parent object",
+                "None of the above"
+            ],
+            "correct_answer": 1,
+            "explanation": "'this' refers to the current object in JavaScript."
+        },
+        {
+            "question_text": "Which of the following is a valid way to declare a variable in JavaScript?",
+            "options": [
+                "var myVar;",
+                "let myVar;",
+                "const myVar;",
+                "All of the above"
+            ],
+            "correct_answer": 3,
+            "explanation": "All mentioned options are valid ways to declare a variable in JavaScript."
+        },
+        {
+            "question_text": "What is the output of the following code: console.log(1 + '1');?",
+            "options": [
+                "2",
+                "11",
+                "Error",
+                "None"
+            ],
+            "correct_answer": 1,
+            "explanation": "The expression evaluates to '11' due to string concatenation."
+        }
+    ],
+    "android_developer": [
+        {
+            "question_text": "What is the primary programming language for Android development?",
+            "options": [
+                "Java",
+                "Kotlin",
+                "C++",
+                "All of the above"
+            ],
+            "correct_answer": 1,
+            "explanation": "Kotlin is the preferred language for Android development."
+        },
+        {
+            "question_text": "What is an Activity in Android?",
+            "options": [
+                "A single screen with a user interface",
+                "A background process",
+                "A service",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "An Activity represents a single screen with a user interface."
+        },
+        {
+            "question_text": "Which of the following is used to define the layout of an Android application?",
+            "options": [
+                "XML",
+                "HTML",
+                "JSON",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "XML is used to define the layout of Android applications."
+        },
+        {
+            "question_text": "What is the purpose of the AndroidManifest.xml file?",
+            "options": [
+                "To define application components",
+                "To define layouts",
+                "To define resources",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "The AndroidManifest.xml file is used to define application components."
+        },
+        {
+            "question_text": "Which of the following is a lifecycle method of an Activity?",
+            "options": [
+                "onCreate()",
+                "onStart()",
+                "onResume()",
+                "All of the above"
+            ],
+            "correct_answer": 3,
+            "explanation": "All mentioned methods are lifecycle methods of an Activity."
+        },
+        {
+            "question_text": "What is a Fragment in Android?",
+            "options": [
+                "A part of an Activity",
+                "A standalone component",
+                "A background service",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "A Fragment is a part of an Activity that can be reused in different Activities."
+        },
+        {
+            "question_text": "Which of the following is used to store key-value pairs in Android?",
+            "options": [
+                "SharedPreferences",
+                "SQLite",
+                "File Storage",
+                "All of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "SharedPreferences is used to store key-value pairs in Android."
+        },
+        {
+            "question_text": "What is the purpose of the Gradle build system in Android?",
+            "options": [
+                "To compile code",
+                "To manage dependencies",
+                "To automate tasks",
+                "All of the above"
+            ],
+            "correct_answer": 3,
+            "explanation": "Gradle is used to compile code, manage dependencies, and automate tasks."
+        },
+        {
+            "question_text": "Which of the following is a layout manager in Android?",
+            "options": [
+                "LinearLayout",
+                "RelativeLayout",
+                "ConstraintLayout",
+                "All of the above"
+            ],
+            "correct_answer": 3,
+            "explanation": "All mentioned options are layout managers in Android."
+        },
+        {
+            "question_text": "What is the purpose of the Intent class in Android?",
+            "options": [
+                "To start a new Activity",
+                "To send data between Activities",
+                "To communicate with services",
+                "All of the above"
+            ],
+            "correct_answer": 3,
+            "explanation": "The Intent class is used to start new Activities and send data between them."
+        },
+        {
+            "question_text": "Which of the following is used to handle background tasks in Android?",
+            "options": [
+                "AsyncTask",
+                "Thread",
+                "Handler",
+                "All of the above"
+            ],
+            "correct_answer": 3,
+            "explanation": "All mentioned options can be used to handle background tasks in Android."
+        },
+        {
+            "question_text": "What is the output of the following code: Log.d(\"TAG\", \"Hello\");?",
+            "options": [
+                "Prints 'Hello' in the console",
+                "Prints 'TAG: Hello' in the console",
+                "No output",
+                "Error"
+            ],
+            "correct_answer": 1,
+            "explanation": "Log.d() prints the message with the specified tag in the console."
+        },
+        {
+            "question_text": "Which of the following is a valid way to declare a variable in Kotlin?",
+            "options": [
+                "var myVar: Int = 5",
+                "val myVar = 5",
+                "Both A and B",
+                "None of the above"
+            ],
+            "correct_answer": 2,
+            "explanation": "Both 'var' and 'val' are valid ways to declare variables in Kotlin."
+        },
+        {
+            "question_text": "What is the purpose of the RecyclerView in Android?",
+            "options": [
+                "To display a list of items",
+                "To display a grid of items",
+                "To display a single item",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "RecyclerView is used to display a list of items efficiently."
+        },
+        {
+            "question_text": "Which of the following is used to create a dialog in Android?",
+            "options": [
+                "AlertDialog",
+                "DialogFragment",
+                "Both A and B",
+                "None of the above"
+            ],
+            "correct_answer": 2,
+            "explanation": "Both AlertDialog and DialogFragment can be used to create dialogs in Android."
+        },
+        {
+            "question_text": "Which component is NOT a part of Android's application architecture?",
+            "options": [
+                "Activities",
+                "Window Manager",
+                "Content Providers",
+                "Services"
+            ],
+            "correct_answer": 1
+        },
+        {
+            "question_text": "What is the purpose of AndroidManifest.xml?",
+            "options": [
+                "To declare app permissions and components",
+                "To store user preferences",
+                "To manage database operations",
+                "To handle UI layouts"
+            ],
+            "correct_answer": 0
+        },
+        {
+            "question_text": "Which lifecycle method is called when an Activity is first created?",
+            "options": [
+                "onStart()",
+                "onCreate()",
+                "onResume()",
+                "onInit()"
+            ],
+            "correct_answer": 1
+        },
+        {
+            "question_text": "What is the main purpose of the ViewModel class in Android?",
+            "options": [
+                "To handle database operations",
+                "To manage UI-related data",
+                "To create network requests",
+                "To handle file operations"
+            ],
+            "correct_answer": 1
+        },
+        {
+            "question_text": "Which storage option is best for storing sensitive user data in Android?",
+            "options": [
+                "SharedPreferences",
+                "SQLite Database",
+                "Internal Storage",
+                "External Storage"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "question_text": "What is the purpose of Kotlin Coroutines in Android development?",
+            "options": [
+                "To handle UI layouts",
+                "To manage asynchronous operations",
+                "To store data locally",
+                "To handle permissions"
+            ],
+            "correct_answer": 1
+        },
+        {
+            "question_text": "Which layout is most efficient for complex UI hierarchies?",
+            "options": [
+                "LinearLayout",
+                "RelativeLayout",
+                "ConstraintLayout",
+                "FrameLayout"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "question_text": "What is the purpose of LiveData in Android?",
+            "options": [
+                "To handle database operations",
+                "To observe data changes and update UI",
+                "To manage network calls",
+                "To handle file operations"
+            ],
+            "correct_answer": 1
+        },
+        {
+            "question_text": "Which component is used for background tasks that should continue even if the app is closed?",
+            "options": [
+                "Activity",
+                "Fragment",
+                "Service",
+                "BroadcastReceiver"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "question_text": "What is the purpose of Dependency Injection in Android development?",
+            "options": [
+                "To manage UI layouts",
+                "To handle network calls",
+                "To reduce coupling between components",
+                "To store data locally"
+            ],
+            "correct_answer": 2
+        }
+    ],
+    "data_analyst": [
+        {
+            "question_text": "What does ETL stand for?",
+            "options": [
+                "Extract, Transform, Load",
+                "Extract, Transfer, Load",
+                "Extract, Transform, Link",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "ETL stands for Extract, Transform, Load."
+        },
+        {
+            "question_text": "Which of the following is a common data visualization tool?",
+            "options": [
+                "Tableau",
+                "Excel",
+                "Power BI",
+                "All of the above"
+            ],
+            "correct_answer": 3,
+            "explanation": "All mentioned options are common data visualization tools."
+        },
+        {
+            "question_text": "What is the purpose of data cleaning?",
+            "options": [
+                "To remove duplicates",
+                "To correct errors",
+                "To format data",
+                "All of the above"
+            ],
+            "correct_answer": 3,
+            "explanation": "Data cleaning involves removing duplicates, correcting errors, and formatting data."
+        },
+        {
+            "question_text": "Which SQL command is used to retrieve data from a database?",
+            "options": [
+                "SELECT",
+                "GET",
+                "RETRIEVE",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "The SELECT command is used to retrieve data from a database."
+        },
+        {
+            "question_text": "What is a primary key in a database?",
+            "options": [
+                "A unique identifier for a record",
+                "A foreign key",
+                "A type of index",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "A primary key is a unique identifier for a record in a database table."
+        },
+        {
+            "question_text": "Which of the following is a statistical measure of central tendency?",
+            "options": [
+                "Mean",
+                "Median",
+                "Mode",
+                "All of the above"
+            ],
+            "correct_answer": 3,
+            "explanation": "Mean, median, and mode are all measures of central tendency."
+        },
+        {
+            "question_text": "What is the purpose of a pivot table in Excel?",
+            "options": [
+                "To summarize data",
+                "To create charts",
+                "To filter data",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "A pivot table is used to summarize and analyze data in Excel."
+        },
+        {
+            "question_text": "Which programming language is commonly used for data analysis?",
+            "options": [
+                "Python",
+                "Java",
+                "C++",
+                "All of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "Python is widely used for data analysis due to its libraries like Pandas and NumPy."
+        },
+        {
+            "question_text": "What is the purpose of data visualization?",
+            "options": [
+                "To present data in a graphical format",
+                "To analyze data",
+                "To store data",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "Data visualization is used to present data in a graphical format for better understanding."
+        },
+        {
+            "question_text": "Which of the following is a common data analysis technique?",
+            "options": [
+                "Regression analysis",
+                "Clustering",
+                "Classification",
+                "All of the above"
+            ],
+            "correct_answer": 3,
+            "explanation": "All mentioned options are common data analysis techniques."
+        },
+        {
+            "question_text": "What is the purpose of a data warehouse?",
+            "options": [
+                "To store large amounts of data",
+                "To analyze data",
+                "To clean data",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "A data warehouse is used to store large amounts of data for analysis."
+        },
+        {
+            "question_text": "Which of the following is a data manipulation language?",
+            "options": [
+                "SQL",
+                "HTML",
+                "CSS",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "SQL is a data manipulation language used to manage and manipulate data."
+        },
+        {
+            "question_text": "What is the purpose of A/B testing?",
+            "options": [
+                "To compare two versions of a webpage",
+                "To analyze user behavior",
+                "To clean data",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "A/B testing is used to compare two versions of a webpage to determine which performs better."
+        },
+        {
+            "question_text": "Which of the following is a common data source for analysis?",
+            "options": [
+                "Surveys",
+                "Databases",
+                "Web scraping",
+                "All of the above"
+            ],
+            "correct_answer": 3,
+            "explanation": "All mentioned options are common data sources for analysis."
+        },
+        {
+            "question_text": "What is the purpose of a scatter plot?",
+            "options": [
+                "To show the relationship between two variables",
+                "To show trends over time",
+                "To show distribution",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "A scatter plot is used to show the relationship between two variables."
+        },
+        {
+            "question_text": "Which of the following is a common data analysis library in Python?",
+            "options": [
+                "Pandas",
+                "NumPy",
+                "Matplotlib",
+                "All of the above"
+            ],
+            "correct_answer": 3,
+            "explanation": "All mentioned libraries are commonly used for data analysis in Python."
+        }
+    ],
+    "python_developer": [
+        {
+            "question_text": "What is the output of print(2 ** 3)?",
+            "options": [
+                "6",
+                "8",
+                "9",
+                "3"
+            ],
+            "correct_answer": 1,
+            "explanation": "2 raised to the power of 3 is 8."
+        },
+        {
+            "question_text": "Which of the following is a mutable data type?",
+            "options": [
+                "list",
+                "tuple",
+                "string",
+                "int"
+            ],
+            "correct_answer": 0,
+            "explanation": "Lists are mutable, meaning they can be changed after creation."
+        },
+        {
+            "question_text": "What is the correct way to create a function in Python?",
+            "options": [
+                "function myFunction() {}",
+                "def myFunction():",
+                "create myFunction() {}",
+                "function: myFunction()"
+            ],
+            "correct_answer": 1,
+            "explanation": "Functions in Python are defined using the 'def' keyword."
+        },
+        {
+            "question_text": "Which of the following is not a valid variable name?",
+            "options": [
+                "my_var",
+                "myVar",
+                "my-var",
+                "myVar1"
+            ],
+            "correct_answer": 2,
+            "explanation": "Variable names cannot contain hyphens."
+        },
+        {
+            "question_text": "What is the purpose of the 'self' keyword in Python?",
+            "options": [
+                "To refer to the class itself",
+                "To refer to the instance of the class",
+                "To refer to the parent class",
+                "None of the above"
+            ],
+            "correct_answer": 1,
+            "explanation": "'self' refers to the instance of the class in Python."
+        },
+        {
+            "question_text": "Which of the following is a Python built-in function?",
+            "options": [
+                "len()",
+                "length()",
+                "count()",
+                "size()"
+            ],
+            "correct_answer": 0,
+            "explanation": "len() is a built-in function that returns the length of an object."
+        },
+        {
+            "question_text": "What is the output of the following code: print(bool(''))?",
+            "options": [
+                "True",
+                "False",
+                "None",
+                "Error"
+            ],
+            "correct_answer": 1,
+            "explanation": "An empty string evaluates to False in a boolean context."
+        },
+        {
+            "question_text": "Which of the following is used to handle exceptions in Python?",
+            "options": [
+                "try/except",
+                "catch/throw",
+                "error/handle",
+                "try/catch"
+            ],
+            "correct_answer": 0,
+            "explanation": "The try/except block is used to handle exceptions in Python."
+        },
+        {
+            "question_text": "What is the output of the following code: print(3 * 'ab')?",
+            "options": [
+                "ababab",
+                "ab",
+                "3ab",
+                "Error"
+            ],
+            "correct_answer": 0,
+            "explanation": "The string 'ab' is repeated 3 times."
+        },
+        {
+            "question_text": "Which of the following is used to read a file in Python?",
+            "options": [
+                "open()",
+                "read()",
+                "file()",
+                "get()"
+            ],
+            "correct_answer": 0,
+            "explanation": "The open() function is used to open a file in Python."
+        },
+        {
+            "question_text": "What is the output of the following code: print(type([]))?",
+            "options": [
+                "<class 'list'>",
+                "<class 'dict'>",
+                "<class 'tuple'>",
+                "<class 'set'>"
+            ],
+            "correct_answer": 0,
+            "explanation": "In Python, an empty list is of type 'list'."
+        },
+        {
+            "question_text": "What is the output of the following code: print(type({}))?",
+            "options": [
+                "<class 'dict'>",
+                "<class 'list'>",
+                "<class 'set'>",
+                "<class 'tuple'>"
+            ],
+            "correct_answer": 0,
+            "explanation": "An empty pair of curly braces represents an empty dictionary."
+        },
+        {
+            "question_text": "What is the output of the following code: print(1 == True)?",
+            "options": [
+                "True",
+                "False",
+                "1",
+                "Error"
+            ],
+            "correct_answer": 0,
+            "explanation": "In Python, True is equivalent to 1."
+        },
+        {
+            "question_text": "Which of the following is a Python data structure?",
+            "options": [
+                "List",
+                "Dictionary",
+                "Set",
+                "All of the above"
+            ],
+            "correct_answer": 3,
+            "explanation": "All of the mentioned options are valid data structures in Python."
+        },
+        {
+            "question_text": "What is the purpose of the 'pass' statement in Python?",
+            "options": [
+                "To exit a loop",
+                "To define a function",
+                "To do nothing",
+                "To raise an exception"
+            ],
+            "correct_answer": 2,
+            "explanation": "'pass' is a null statement in Python that does nothing."
+        },
+        {
+            "question_text": "Which of the following is a valid way to import a module in Python?",
+            "options": [
+                "import module_name",
+                "include module_name",
+                "require module_name",
+                "using module_name"
+            ],
+            "correct_answer": 0,
+            "explanation": "The correct way to import a module is using the 'import' statement."
+        },
+        {
+            "question_text": "What is the output of the following code: print(0.1 + 0.2 == 0.3)?",
+            "options": [
+                "True",
+                "False",
+                "Error",
+                "None"
+            ],
+            "correct_answer": 1,
+            "explanation": "Due to floating-point precision issues, this expression evaluates to False."
+        },
+        {
+            "question_text": "Which of the following is a valid way to create a list in Python?",
+            "options": [
+                "list = []",
+                "list = ()",
+                "list = {}",
+                "list = list()"
+            ],
+            "correct_answer": 0,
+            "explanation": "Lists are created using square brackets."
+        },
+        {
+            "question_text": "Which of the following is a valid way to create a string in Python?",
+            "options": [
+                "str = 'Hello'",
+                "str = \"Hello\"",
+                "Both A and B",
+                "None of the above"
+            ],
+            "correct_answer": 2,
+            "explanation": "Both single and double quotes can be used to create strings in Python."
+        }
+    ],
+    "php_developer": [
+        {
+            "question_text": "What does PHP stand for?",
+            "options": [
+                "Personal Home Page",
+                "PHP: Hypertext Preprocessor",
+                "Private Home Page",
+                "None of the above"
+            ],
+            "correct_answer": 1,
+            "explanation": "PHP stands for PHP: Hypertext Preprocessor."
+        },
+        {
+            "question_text": "Which of the following is a valid way to declare a variable in PHP?",
+            "options": [
+                "$var = 'value';",
+                "var $var = 'value';",
+                "declare $var = 'value';",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "Variables in PHP are declared with a dollar sign ($) followed by the variable name."
+        },
+        {
+            "question_text": "What is the correct way to include a file in PHP?",
+            "options": [
+                "include 'file.php';",
+                "require 'file.php';",
+                "Both A and B",
+                "None of the above"
+            ],
+            "correct_answer": 2,
+            "explanation": "Both include and require can be used to include files in PHP."
+        },
+        {
+            "question_text": "Which of the following is used to start a session in PHP?",
+            "options": [
+                "session_start();",
+                "start_session();",
+                "begin_session();",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "session_start() is used to start a session in PHP."
+        },
+        {
+            "question_text": "What is the output of the following code: echo 5 + '10';?",
+            "options": [
+                "15",
+                "510",
+                "Error",
+                "None"
+            ],
+            "correct_answer": 0,
+            "explanation": "PHP performs type juggling and adds the numbers."
+        },
+        {
+            "question_text": "Which of the following is a valid way to create an array in PHP?",
+            "options": [
+                "$arr = array();",
+                "$arr = [];",
+                "Both A and B",
+                "None of the above"
+            ],
+            "correct_answer": 2,
+            "explanation": "Both methods are valid ways to create an array in PHP."
+        },
+        {
+            "question_text": "What is the purpose of the isset() function in PHP?",
+            "options": [
+                "To check if a variable is set",
+                "To check if a variable is empty",
+                "To check if a variable is null",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "isset() checks if a variable is set and is not null."
+        },
+        {
+            "question_text": "Which of the following is used to comment in PHP?",
+            "options": [
+                "// This is a comment",
+                "# This is a comment",
+                "/* This is a comment */",
+                "All of the above"
+            ],
+            "correct_answer": 3,
+            "explanation": "All mentioned options are valid ways to comment in PHP."
+        },
+        {
+            "question_text": "What is the output of the following code: echo 'Hello' . ' World';?",
+            "options": [
+                "Hello World",
+                "HelloWorld",
+                "Error",
+                "None"
+            ],
+            "correct_answer": 0,
+            "explanation": "The '.' operator is used for string concatenation in PHP."
+        },
+        {
+            "question_text": "Which of the following is a valid way to define a function in PHP?",
+            "options": [
+                "function myFunction() {}",
+                "myFunction() {}",
+                "function: myFunction() {}",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "Functions in PHP are defined using the 'function' keyword."
+        },
+        {
+            "question_text": "What is the purpose of the return statement in PHP?",
+            "options": [
+                "To exit a function",
+                "To return a value",
+                "To define a function",
+                "Both A and B"
+            ],
+            "correct_answer": 3,
+            "explanation": "The return statement is used to exit a function and return a value."
+        },
+        {
+            "question_text": "Which of the following is a valid way to create a constant in PHP?",
+            "options": [
+                "define('MY_CONSTANT', 'value');",
+                "const MY_CONSTANT = 'value';",
+                "Both A and B",
+                "None of the above"
+            ],
+            "correct_answer": 2,
+            "explanation": "Both methods are valid ways to create a constant in PHP."
+        },
+        {
+            "question_text": "What is the output of the following code: echo 10 == '10';?",
+            "options": [
+                "True",
+                "False",
+                "1",
+                "0"
+            ],
+            "correct_answer": 0,
+            "explanation": "The expression evaluates to True due to type juggling."
+        },
+        {
+            "question_text": "Which of the following is used to handle exceptions in PHP?",
+            "options": [
+                "try/catch",
+                "throw/catch",
+                "catch/throw",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "The try/catch block is used to handle exceptions in PHP."
+        },
+        {
+            "question_text": "What is the purpose of the include_once() function in PHP?",
+            "options": [
+                "To include a file only once",
+                "To include a file multiple times",
+                "To include a file if it exists",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "include_once() includes a file only once, preventing multiple inclusions."
+        },
+        {
+            "question_text": "Which of the following is a valid way to create a class in PHP?",
+            "options": [
+                "class MyClass {}",
+                "MyClass class {}",
+                "class: MyClass {}",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "Classes in PHP are defined using the 'class' keyword."
+        }
+    ],
+    "java_developer": [
+        {
+            "question_text": "What does JVM stand for?",
+            "options": [
+                "Java Virtual Machine",
+                "Java Variable Machine",
+                "Java Visual Machine",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "JVM stands for Java Virtual Machine."
+        },
+        {
+            "question_text": "Which of the following is a valid way to declare a variable in Java?",
+            "options": [
+                "int x = 10;",
+                "int x : 10;",
+                "int x => 10;",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "Variables in Java are declared using the 'int' keyword followed by the variable name."
+        },
+        {
+            "question_text": "What is the output of the following code: System.out.println(5 + 10);?",
+            "options": [
+                "15",
+                "510",
+                "Error",
+                "None"
+            ],
+            "correct_answer": 0,
+            "explanation": "The expression evaluates to 15."
+        },
+        {
+            "question_text": "Which of the following is a valid constructor in Java?",
+            "options": [
+                "public MyClass() {}",
+                "void MyClass() {}",
+                "MyClass() void {}",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "Constructors in Java have the same name as the class."
+        },
+        {
+            "question_text": "What is the purpose of the 'static' keyword in Java?",
+            "options": [
+                "To define a class variable",
+                "To define a method that belongs to the class",
+                "Both A and B",
+                "None of the above"
+            ],
+            "correct_answer": 2,
+            "explanation": "'static' indicates that a variable or method belongs to the class rather than instances of the class."
+        },
+        {
+            "question_text": "Which of the following is used to handle exceptions in Java?",
+            "options": [
+                "try/catch",
+                "throw/catch",
+                "catch/throw",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "The try/catch block is used to handle exceptions in Java."
+        },
+        {
+            "question_text": "What is the output of the following code: System.out.println(10 == 10);?",
+            "options": [
+                "True",
+                "False",
+                "1",
+                "0"
+            ],
+            "correct_answer": 0,
+            "explanation": "The expression evaluates to True."
+        },
+        {
+            "question_text": "Which of the following is a valid way to create an array in Java?",
+            "options": [
+                "int[] arr = new int[5];",
+                "int arr[] = new int[5];",
+                "Both A and B",
+                "None of the above"
+            ],
+            "correct_answer": 2,
+            "explanation": "Both methods are valid ways to create an array in Java."
+        },
+        {
+            "question_text": "What is the purpose of the 'final' keyword in Java?",
+            "options": [
+                "To declare a constant",
+                "To prevent method overriding",
+                "To prevent inheritance",
+                "All of the above"
+            ],
+            "correct_answer": 3,
+            "explanation": "'final' can be used to declare constants, prevent method overriding, and prevent inheritance."
+        },
+        {
+            "question_text": "Which of the following is a valid way to define a method in Java?",
+            "options": [
+                "public void myMethod() {}",
+                "void myMethod() public {}",
+                "myMethod() void {}",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "Methods in Java are defined with an access modifier followed by the return type."
+        },
+        {
+            "question_text": "What is the output of the following code: System.out.println(\"Hello\" + \" World\");?",
+            "options": [
+                "Hello World",
+                "HelloWorld",
+                "Error",
+                "None"
+            ],
+            "correct_answer": 0,
+            "explanation": "The '+' operator is used for string concatenation in Java."
+        },
+        {
+            "question_text": "Which of the following is a valid way to create a class in Java?",
+            "options": [
+                "class MyClass {}",
+                "MyClass class {}",
+                "class: MyClass {}",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "Classes in Java are defined using the 'class' keyword."
+        },
+        {
+            "question_text": "What is the purpose of the 'this' keyword in Java?",
+            "options": [
+                "To refer to the current object",
+                "To refer to the parent class",
+                "To refer to the global object",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "'this' refers to the current object in Java."
+        },
+        {
+            "question_text": "Which of the following is a valid way to declare a constant in Java?",
+            "options": [
+                "final int MY_CONSTANT = 10;",
+                "const int MY_CONSTANT = 10;",
+                "int MY_CONSTANT = 10;",
+                "None of the above"
+            ],
+            "correct_answer": 0,
+            "explanation": "Constants in Java are declared using the 'final' keyword."
+        },
+        {
+            "question_text": "What is the output of the following code: System.out.println(5 + 10 + \" is the result\");?",
+            "options": [
+                "15 is the result",
+                "510 is the result",
+                "Error",
+                "None"
+            ],
+            "correct_answer": 0,
+            "explanation": "The expression evaluates to '15 is the result' due to string concatenation."
+        }
+    ],
+    "cyber_security_specialist": [
+        {
+            "question_text": "What is the purpose of a firewall in network security?",
+            "options": [
+                "To monitor and control incoming/outgoing network traffic",
+                "To encrypt data",
+                "To store backup data",
+                "To speed up network performance"
+            ],
+            "correct_answer": 0,
+            "explanation": "A firewall monitors and controls incoming/outgoing network traffic based on security rules."
+        },
+        {
+            "question_text": "What is SQL Injection?",
+            "options": [
+                "A type of malicious code injection attack",
+                "A database backup method",
+                "A SQL query optimization technique",
+                "A database design pattern"
+            ],
+            "correct_answer": 0,
+            "explanation": "SQL Injection is a type of attack where malicious SQL code is inserted into application queries."
+        },
+        {
+            "question_text": "What is the purpose of encryption?",
+            "options": [
+                "To compress data",
+                "To protect data confidentiality",
+                "To speed up data transmission",
+                "To organize data"
+            ],
+            "correct_answer": 1,
+            "explanation": "Encryption is used to protect data confidentiality by converting it into a coded format."
+        },
+        {
+            "question_text": "What is a DDoS attack?",
+            "options": [
+                "Distributed Denial of Service",
+                "Data Deletion of Service",
+                "Direct Denial of Security",
+                "Database Denial of Service"
+            ],
+            "correct_answer": 0,
+            "explanation": "DDoS is an attack that attempts to make a service unavailable by overwhelming it with traffic."
+        },
+        {
+            "question_text": "What is two-factor authentication?",
+            "options": [
+                "Using two passwords",
+                "Using two different security methods for verification",
+                "Using two different browsers",
+                "Using two different computers"
+            ],
+            "correct_answer": 1,
+            "explanation": "Two-factor authentication uses two different methods to verify identity."
+        },
+        {
+            "question_text": "What is a vulnerability assessment?",
+            "options": [
+                "A process to identify security weaknesses",
+                "A type of antivirus software",
+                "A network monitoring tool",
+                "A backup system"
+            ],
+            "correct_answer": 0,
+            "explanation": "Vulnerability assessment is the process of identifying and evaluating security weaknesses."
+        },
+        {
+            "question_text": "What is phishing?",
+            "options": [
+                "A type of social engineering attack",
+                "A network protocol",
+                "A backup method",
+                "A type of encryption"
+            ],
+            "correct_answer": 0,
+            "explanation": "Phishing is a social engineering attack that attempts to steal sensitive information."
+        },
+        {
+            "question_text": "What is the purpose of an IDS?",
+            "options": [
+                "Intrusion Detection System",
+                "Internet Data Security",
+                "Internal Database System",
+                "Integrated Defense System"
+            ],
+            "correct_answer": 0,
+            "explanation": "IDS monitors network traffic for suspicious activity and policy violations."
+        },
+        {
+            "question_text": "What is a zero-day exploit?",
+            "options": [
+                "An attack targeting a known vulnerability",
+                "An attack targeting an unknown vulnerability",
+                "A type of virus",
+                "A type of firewall"
+            ],
+            "correct_answer": 1,
+            "explanation": "A zero-day exploit targets a previously unknown vulnerability."
+        },
+        {
+            "question_text": "What is the purpose of penetration testing?",
+            "options": [
+                "To test network speed",
+                "To identify and exploit security vulnerabilities",
+                "To backup data",
+                "To monitor network traffic"
+            ],
+            "correct_answer": 1,
+            "explanation": "Penetration testing is used to identify and exploit security vulnerabilities."
+        },
+        {
+            "question_text": "What is malware?",
+            "options": [
+                "Malicious software",
+                "Network monitoring software",
+                "Security software",
+                "Operating system software"
+            ],
+            "correct_answer": 0,
+            "explanation": "Malware is software designed to damage or gain unauthorized access to systems."
+        },
+        {
+            "question_text": "What is the purpose of a VPN?",
+            "options": [
+                "To increase internet speed",
+                "To provide secure, encrypted connections",
+                "To store data",
+                "To monitor network traffic"
+            ],
+            "correct_answer": 1,
+            "explanation": "VPN provides secure, encrypted connections over public networks."
+        },
+        {
+            "question_text": "What is social engineering?",
+            "options": [
+                "Network configuration",
+                "Manipulating people to reveal confidential information",
+                "Software development",
+                "Database management"
+            ],
+            "correct_answer": 1,
+            "explanation": "Social engineering involves manipulating people to reveal confidential information."
+        },
+        {
+            "question_text": "What is the purpose of an incident response plan?",
+            "options": [
+                "To prevent incidents",
+                "To respond to security incidents systematically",
+                "To monitor network traffic",
+                "To backup data"
+            ],
+            "correct_answer": 1,
+            "explanation": "An incident response plan provides a systematic approach to handling security incidents."
+        },
+        {
+            "question_text": "What is the CIA triad in cybersecurity?",
+            "options": [
+                "Confidentiality, Integrity, Availability",
+                "Control, Investigation, Analysis",
+                "Critical, Important, Accessible",
+                "Cyber, Internet, Access"
+            ],
+            "correct_answer": 0,
+            "explanation": "CIA triad represents the three key principles of cybersecurity."
+        }
+    ],
+    "software_developer": [
+        {
+            "question_text": "What is Object-Oriented Programming (OOP)?",
+            "options": [
+                "A programming paradigm based on objects",
+                "A type of database",
+                "A web framework",
+                "A programming language"
+            ],
+            "correct_answer": 0,
+            "explanation": "OOP is a programming paradigm based on the concept of objects containing data and code."
+        },
+        {
+            "question_text": "What is version control?",
+            "options": [
+                "A system for tracking code changes",
+                "A type of programming language",
+                "A debugging tool",
+                "A code editor"
+            ],
+            "correct_answer": 0,
+            "explanation": "Version control systems track changes in source code over time."
+        },
+        {
+            "question_text": "What is a REST API?",
+            "options": [
+                "A web service architecture",
+                "A programming language",
+                "A database system",
+                "A code editor"
+            ],
+            "correct_answer": 0,
+            "explanation": "REST API is an architectural style for designing networked applications."
+        },
+        {
+            "question_text": "What is unit testing?",
+            "options": [
+                "Testing individual components",
+                "Testing the entire application",
+                "Testing user interface",
+                "Testing database"
+            ],
+            "correct_answer": 0,
+            "explanation": "Unit testing involves testing individual components or units of code."
+        },
+        {
+            "question_text": "What is dependency injection?",
+            "options": [
+                "A design pattern for handling dependencies",
+                "A type of database",
+                "A programming language",
+                "A debugging tool"
+            ],
+            "correct_answer": 0,
+            "explanation": "Dependency injection is a technique where objects receive other objects they depend on."
+        },
+        {
+            "question_text": "What is continuous integration?",
+            "options": [
+                "Automated merging and testing of code",
+                "Manual code review",
+                "Database backup",
+                "User interface design"
+            ],
+            "correct_answer": 0,
+            "explanation": "Continuous integration automatically merges and tests code changes."
+        },
+        {
+            "question_text": "What is a design pattern?",
+            "options": [
+                "A reusable solution to common problems",
+                "A user interface design",
+                "A programming language",
+                "A database schema"
+            ],
+            "correct_answer": 0,
+            "explanation": "Design patterns are reusable solutions to commonly occurring problems in software design."
+        },
+        {
+            "question_text": "What is refactoring?",
+            "options": [
+                "Restructuring existing code",
+                "Writing new code",
+                "Testing code",
+                "Deleting code"
+            ],
+            "correct_answer": 0,
+            "explanation": "Refactoring is the process of restructuring code without changing its external behavior."
+        },
+        {
+            "question_text": "What is agile development?",
+            "options": [
+                "An iterative development approach",
+                "A programming language",
+                "A database system",
+                "A testing framework"
+            ],
+            "correct_answer": 0,
+            "explanation": "Agile development is an iterative approach to software development."
+        },
+        {
+            "question_text": "What is a microservice architecture?",
+            "options": [
+                "A service-oriented architecture style",
+                "A programming language",
+                "A database system",
+                "A user interface design"
+            ],
+            "correct_answer": 0,
+            "explanation": "Microservice architecture structures an application as a collection of small autonomous services."
+        },
+        {
+            "question_text": "What is code review?",
+            "options": [
+                "Systematic examination of code",
+                "Writing new code",
+                "Testing code",
+                "Deploying code"
+            ],
+            "correct_answer": 0,
+            "explanation": "Code review is the systematic examination of code to find and fix mistakes."
+        },
+        {
+            "question_text": "What is debugging?",
+            "options": [
+                "Finding and fixing code errors",
+                "Writing new code",
+                "Testing code",
+                "Deploying code"
+            ],
+            "correct_answer": 0,
+            "explanation": "Debugging is the process of finding and resolving defects in software."
+        },
+        {
+            "question_text": "What is a framework?",
+            "options": [
+                "A platform for developing software",
+                "A programming language",
+                "A database system",
+                "A testing tool"
+            ],
+            "correct_answer": 0,
+            "explanation": "A framework is a platform for developing software applications."
+        },
+        {
+            "question_text": "What is scalability in software?",
+            "options": [
+                "Ability to handle growing amounts of work",
+                "Program size",
+                "Code complexity",
+                "User interface design"
+            ],
+            "correct_answer": 0,
+            "explanation": "Scalability is the capability of a system to handle a growing amount of work."
+        },
+        {
+            "question_text": "What is technical debt?",
+            "options": [
+                "Cost of additional work from quick solutions",
+                "Software cost",
+                "Development time",
+                "Testing effort"
+            ],
+            "correct_answer": 0,
+            "explanation": "Technical debt is the implied cost of additional rework caused by choosing quick solutions."
+        }
+    ],
+    "front_end_developer": [
+        {
+            "question_text": "What is the purpose of CSS?",
+            "options": [
+                "To style web pages",
+                "To create database queries",
+                "To handle server logic",
+                "To manage APIs"
+            ],
+            "correct_answer": 0,
+            "explanation": "CSS is used to style and layout web pages."
+        },
+        {
+            "question_text": "What is React.js?",
+            "options": [
+                "A JavaScript library for building user interfaces",
+                "A database system",
+                "A server-side language",
+                "A testing framework"
+            ],
+            "correct_answer": 0,
+            "explanation": "React.js is a JavaScript library for building user interfaces."
+        },
+        {
+            "question_text": "What is responsive design?",
+            "options": [
+                "Design that adapts to different screen sizes",
+                "Fast loading websites",
+                "Interactive animations",
+                "Server response handling"
+            ],
+            "correct_answer": 0,
+            "explanation": "Responsive design ensures websites adapt to different screen sizes."
+        },
+        {
+            "question_text": "What is the DOM?",
+            "options": [
+                "Document Object Model",
+                "Data Object Management",
+                "Digital Output Method",
+                "Database Object Model"
+            ],
+            "correct_answer": 0,
+            "explanation": "DOM is a programming interface for HTML and XML documents."
+        },
+        {
+            "question_text": "What is AJAX?",
+            "options": [
+                "Asynchronous JavaScript and XML",
+                "Advanced JavaScript Application XML",
+                "Automated JavaScript and XML",
+                "Application JavaScript XML"
+            ],
+            "correct_answer": 0,
+            "explanation": "AJAX allows web pages to be updated asynchronously."
+        },
+        {
+            "question_text": "What is webpack?",
+            "options": [
+                "A module bundler",
+                "A programming language",
+                "A database system",
+                "A web server"
+            ],
+            "correct_answer": 0,
+            "explanation": "Webpack is a static module bundler for JavaScript applications."
+        },
+        {
+            "question_text": "What is SEO?",
+            "options": [
+                "Search Engine Optimization",
+                "Search Engine Operation",
+                "System Engine Optimization",
+                "Search Execution Operation"
+            ],
+            "correct_answer": 0,
+            "explanation": "SEO improves website visibility in search engines."
+        },
+        {
+            "question_text": "What is TypeScript?",
+            "options": [
+                "A superset of JavaScript",
+                "A database language",
+                "A web server",
+                "A testing framework"
+            ],
+            "correct_answer": 0,
+            "explanation": "TypeScript adds static types to JavaScript."
+        },
+        {
+            "question_text": "What is npm?",
+            "options": [
+                "Node Package Manager",
+                "New Programming Method",
+                "Network Protocol Manager",
+                "Node Process Monitor"
+            ],
+            "correct_answer": 0,
+            "explanation": "npm is the package manager for Node.js."
+        },
+        {
+            "question_text": "What is a SPA?",
+            "options": [
+                "Single Page Application",
+                "System Process Application",
+                "Server Page Application",
+                "Static Page Application"
+            ],
+            "correct_answer": 0,
+            "explanation": "SPA is a web app that loads a single HTML page."
+        },
+        {
+            "question_text": "What is CSS Grid?",
+            "options": [
+                "A CSS layout system",
+                "A grid drawing tool",
+                "A database structure",
+                "A server configuration"
+            ],
+            "correct_answer": 0,
+            "explanation": "CSS Grid is a two-dimensional layout system."
+        },
+        {
+            "question_text": "What is Redux?",
+            "options": [
+                "A state management library",
+                "A database system",
+                "A web server",
+                "A testing framework"
+            ],
+            "correct_answer": 0,
+            "explanation": "Redux is a predictable state container for JavaScript apps."
+        },
+        {
+            "question_text": "What is ESLint?",
+            "options": [
+                "A code linting tool",
+                "A database query tool",
+                "A web server",
+                "A testing framework"
+            ],
+            "correct_answer": 0,
+            "explanation": "ESLint is a tool for identifying and fixing code errors."
+        },
+        {
+            "question_text": "What is Babel?",
+            "options": [
+                "A JavaScript compiler",
+                "A database system",
+                "A web server",
+                "A testing framework"
+            ],
+            "correct_answer": 0,
+            "explanation": "Babel is a JavaScript compiler that converts modern JavaScript code."
+        },
+        {
+            "question_text": "What is CORS?",
+            "options": [
+                "Cross-Origin Resource Sharing",
+                "Cross-Origin Request System",
+                "Client-Origin Resource System",
+                "Client-Origin Request Sharing"
+            ],
+            "correct_answer": 0,
+            "explanation": "CORS is a mechanism that allows restricted resources to be requested from another domain."
+        }
+    ],
+    "database_administrator": [
+        {
+            "question_text": "What is a primary key?",
+            "options": [
+                "A unique identifier for a record",
+                "A backup key",
+                "A foreign key",
+                "An index key"
+            ],
+            "correct_answer": 0,
+            "explanation": "A primary key uniquely identifies each record in a table."
+        },
+        {
+            "question_text": "What is normalization?",
+            "options": [
+                "Process of organizing data efficiently",
+                "Data backup process",
+                "Data encryption",
+                "Data compression"
+            ],
+            "correct_answer": 0,
+            "explanation": "Normalization organizes data to reduce redundancy."
+        },
+        {
+            "question_text": "What is a transaction?",
+            "options": [
+                "A unit of work in a database",
+                "A table type",
+                "A backup process",
+                "An index type"
+            ],
+            "correct_answer": 0,
+            "explanation": "A transaction is a sequence of operations performed as a single unit."
+        },
+        {
+            "question_text": "What is ACID?",
+            "options": [
+                "Properties of database transactions",
+                "A database type",
+                "A backup method",
+                "An encryption standard"
+            ],
+            "correct_answer": 0,
+            "explanation": "ACID ensures reliable processing of database transactions."
+        },
+        {
+            "question_text": "What is an index?",
+            "options": [
+                "A data structure to improve query performance",
+                "A table type",
+                "A backup file",
+                "A transaction log"
+            ],
+            "correct_answer": 0,
+            "explanation": "An index improves the speed of data retrieval operations."
+        },
+        {
+            "question_text": "What is a view?",
+            "options": [
+                "A virtual table based on SQL statement",
+                "A physical table",
+                "A backup copy",
+                "A transaction log"
+            ],
+            "correct_answer": 0,
+            "explanation": "A view is a virtual table based on the result set of an SQL statement."
+        },
+        {
+            "question_text": "What is a stored procedure?",
+            "options": [
+                "A prepared SQL code",
+                "A table type",
+                "A backup method",
+                "An index type"
+            ],
+            "correct_answer": 0,
+            "explanation": "A stored procedure is prepared SQL code that can be saved and reused."
+        },
+        {
+            "question_text": "What is replication?",
+            "options": [
+                "Copying data between databases",
+                "Data deletion",
+                "Data encryption",
+                "Data compression"
+            ],
+            "correct_answer": 0,
+            "explanation": "Replication copies and distributes data across multiple databases."
+        },
+        {
+            "question_text": "What is a trigger?",
+            "options": [
+                "Automatic response to database events",
+                "A backup type",
+                "An index type",
+                "A table type"
+            ],
+            "correct_answer": 0,
+            "explanation": "A trigger automatically executes in response to certain database events."
+        },
+        {
+            "question_text": "What is a foreign key?",
+            "options": [
+                "A field referencing another table's primary key",
+                "A backup key",
+                "An encryption key",
+                "An index key"
+            ],
+            "correct_answer": 0,
+            "explanation": "A foreign key maintains referential integrity between tables."
+        },
+        {
+            "question_text": "What is a deadlock?",
+            "options": [
+                "Two transactions blocking each other",
+                "Database crash",
+                "Data corruption",
+                "Server failure"
+            ],
+            "correct_answer": 0,
+            "explanation": "A deadlock occurs when two transactions block each other."
+        },
+        {
+            "question_text": "What is partitioning?",
+            "options": [
+                "Dividing tables into smaller parts",
+                "Data backup",
+                "Data encryption",
+                "Data compression"
+            ],
+            "correct_answer": 0,
+            "explanation": "Partitioning divides large tables into smaller, manageable parts."
+        },
+        {
+            "question_text": "What is a checkpoint?",
+            "options": [
+                "A point of consistency in the database",
+                "A backup point",
+                "An index point",
+                "A trigger point"
+            ],
+            "correct_answer": 0,
+            "explanation": "A checkpoint ensures database consistency."
+        },
+        {
+            "question_text": "What is clustering?",
+            "options": [
+                "Grouping multiple databases",
+                "Data backup",
+                "Data encryption",
+                "Data compression"
+            ],
+            "correct_answer": 0,
+            "explanation": "Clustering groups multiple databases for high availability."
+        },
+        {
+            "question_text": "What is a schema?",
+            "options": [
+                "Database structure definition",
+                "Data backup",
+                "Data encryption",
+                "Data compression"
+            ],
+            "correct_answer": 0,
+            "explanation": "A schema defines the structure of a database."
+        }
+    ],
+    "mobile_application_developer": [
+        {
+            "question_text": "What is React Native?",
+            "options": [
+                "A framework for building mobile apps",
+                "A database system",
+                "A testing tool",
+                "An operating system"
+            ],
+            "correct_answer": 0,
+            "explanation": "React Native is used to build native mobile applications."
+        },
+        {
+            "question_text": "What is Flutter?",
+            "options": [
+                "A UI software development kit",
+                "A database system",
+                "A testing framework",
+                "An operating system"
+            ],
+            "correct_answer": 0,
+            "explanation": "Flutter is Google's UI toolkit for building native applications."
+        },
+        {
+            "question_text": "What is Swift?",
+            "options": [
+                "Apple's programming language",
+                "A database system",
+                "A testing framework",
+                "An Android development tool"
+            ],
+            "correct_answer": 0,
+            "explanation": "Swift is Apple's programming language for iOS development."
+        },
+        {
+            "question_text": "What is Kotlin?",
+            "options": [
+                "A programming language for Android",
+                "A database system",
+                "A testing framework",
+                "An iOS development tool"
+            ],
+            "correct_answer": 0,
+            "explanation": "Kotlin is a modern programming language for Android development."
+        },
+        {
+            "question_text": "What is APK?",
+            "options": [
+                "Android Package Kit",
+                "Apple Package Kit",
+                "Application Program Kit",
+                "Android Program Key"
+            ],
+            "correct_answer": 0,
+            "explanation": "APK is the package file format used by Android."
+        },
+        {
+            "question_text": "What is TestFlight?",
+            "options": [
+                "iOS beta testing platform",
+                "Android testing tool",
+                "Cross-platform testing framework",
+                "Performance testing tool"
+            ],
+            "correct_answer": 0,
+            "explanation": "TestFlight is Apple's platform for testing iOS applications."
+        },
+        {
+            "question_text": "What is Android Studio?",
+            "options": [
+                "Official Android development IDE",
+                "A testing framework",
+                "A database system",
+                "A design tool"
+            ],
+            "correct_answer": 0,
+            "explanation": "Android Studio is the official IDE for Android development."
+        },
+        {
+            "question_text": "What is Xcode?",
+            "options": [
+                "Apple's development environment",
+                "Android development tool",
+                "Cross-platform IDE",
+                "Testing framework"
+            ],
+            "correct_answer": 0,
+            "explanation": "Xcode is Apple's integrated development environment."
+        },
+        {
+            "question_text": "What is Firebase?",
+            "options": [
+                "Mobile development platform",
+                "Programming language",
+                "Operating system",
+                "Design tool"
+            ],
+            "correct_answer": 0,
+            "explanation": "Firebase is Google's mobile development platform."
+        },
+        {
+            "question_text": "What is Material Design?",
+            "options": [
+                "Google's design system",
+                "Apple's design system",
+                "Microsoft's design system",
+                "Open-source design system"
+            ],
+            "correct_answer": 0,
+            "explanation": "Material Design is Google's design system for Android."
+        },
+        {
+            "question_text": "What is CocoaPods?",
+            "options": [
+                "iOS dependency manager",
+                "Android dependency manager",
+                "Cross-platform tool",
+                "Testing framework"
+            ],
+            "correct_answer": 0,
+            "explanation": "CocoaPods is a dependency manager for iOS development."
+        },
+        {
+            "question_text": "What is Gradle?",
+            "options": [
+                "Android build system",
+                "iOS build system",
+                "Cross-platform tool",
+                "Testing framework"
+            ],
+            "correct_answer": 0,
+            "explanation": "Gradle is the official build system for Android."
+        },
+        {
+            "question_text": "What is App Store Connect?",
+            "options": [
+                "iOS app management tool",
+                "Android app management tool",
+                "Cross-platform tool",
+                "Testing framework"
+            ],
+            "correct_answer": 0,
+            "explanation": "App Store Connect is used to manage iOS apps."
+        },
+        {
+            "question_text": "What is Google Play Console?",
+            "options": [
+                "Android app management tool",
+                "iOS app management tool",
+                "Cross-platform tool",
+                "Testing framework"
+            ],
+            "correct_answer": 0,
+            "explanation": "Google Play Console is used to manage Android apps."
+        },
+        {
+            "question_text": "What is SQLite?",
+            "options": [
+                "Mobile database system",
+                "Cloud storage system",
+                "File system",
+                "Memory management system"
+            ],
+            "correct_answer": 0,
+            "explanation": "SQLite is a lightweight database commonly used in mobile apps."
+        }
+    ],
+    "network_architect": [
+        {
+            "question_text": "What is a subnet?",
+            "options": [
+                "A logical division of an IP network",
+                "A physical network device",
+                "A security protocol",
+                "A routing protocol"
+            ],
+            "correct_answer": 0,
+            "explanation": "A subnet is a logical subdivision of an IP network."
+        },
+        {
+            "question_text": "What is VLAN?",
+            "options": [
+                "Virtual Local Area Network",
+                "Virtual Large Area Network",
+                "Virtual Link Area Network",
+                "Virtual Local Access Network"
+            ],
+            "correct_answer": 0,
+            "explanation": "VLAN is a method of creating independent logical networks."
+        },
+        {
+            "question_text": "What is BGP?",
+            "options": [
+                "Border Gateway Protocol",
+                "Basic Gateway Protocol",
+                "Border Group Protocol",
+                "Basic Group Protocol"
+            ],
+            "correct_answer": 0,
+            "explanation": "BGP is the protocol that makes the internet work."
+        },
+        {
+            "question_text": "What is SDN?",
+            "options": [
+                "Software Defined Networking",
+                "System Defined Network",
+                "Software Designed Network",
+                "System Design Network"
+            ],
+            "correct_answer": 0,
+            "explanation": "SDN separates network control from forwarding functions."
+        },
+        {
+            "question_text": "What is OSPF?",
+            "options": [
+                "Open Shortest Path First",
+                "Open System Path First",
+                "Operating System Path First",
+                "Open Secure Path First"
+            ],
+            "correct_answer": 0,
+            "explanation": "OSPF is a routing protocol for IP networks."
+        },
+        {
+            "question_text": "What is QoS?",
+            "options": [
+                "Quality of Service",
+                "Query of Service",
+                "Quality of System",
+                "Query of System"
+            ],
+            "correct_answer": 0,
+            "explanation": "QoS manages network resources to meet application requirements."
+        },
+        {
+            "question_text": "What is MPLS?",
+            "options": [
+                "Multiprotocol Label Switching",
+                "Multiple Protocol Layer System",
+                "Multi Path Layer Service",
+                "Multiple Protocol Link System"
+            ],
+            "correct_answer": 0,
+            "explanation": "MPLS directs data from one network node to the next."
+        },
+        {
+            "question_text": "What is NAT?",
+            "options": [
+                "Network Address Translation",
+                "Network Access Translation",
+                "Network Address Transfer",
+                "Network Access Transfer"
+            ],
+            "correct_answer": 0,
+            "explanation": "NAT modifies network address information for routing."
+        },
+        {
+            "question_text": "What is IPv6?",
+            "options": [
+                "Internet Protocol version 6",
+                "Internet Path version 6",
+                "Internet Protocol vector 6",
+                "Internet Path vector 6"
+            ],
+            "correct_answer": 0,
+            "explanation": "IPv6 is the most recent version of the Internet Protocol."
+        },
+        {
+            "question_text": "What is a firewall?",
+            "options": [
+                "Network security system",
+                "Network routing system",
+                "Network management system",
+                "Network monitoring system"
+            ],
+            "correct_answer": 0,
+            "explanation": "A firewall monitors and controls network traffic."
+        },
+        {
+            "question_text": "What is DNS?",
+            "options": [
+                "Domain Name System",
+                "Domain Network Service",
+                "Digital Name System",
+                "Digital Network Service"
+            ],
+            "correct_answer": 0,
+            "explanation": "DNS translates domain names to IP addresses."
+        },
+        {
+            "question_text": "What is VPN?",
+            "options": [
+                "Virtual Private Network",
+                "Virtual Public Network",
+                "Virtual Protocol Network",
+                "Virtual Path Network"
+            ],
+            "correct_answer": 0,
+            "explanation": "VPN extends a private network across public networks."
+        },
+        {
+            "question_text": "What is load balancing?",
+            "options": [
+                "Distributing network traffic",
+                "Managing network security",
+                "Monitoring network performance",
+                "Controlling network access"
+            ],
+            "correct_answer": 0,
+            "explanation": "Load balancing distributes network traffic across multiple servers."
+        },
+        {
+            "question_text": "What is DHCP?",
+            "options": [
+                "Dynamic Host Configuration Protocol",
+                "Digital Host Control Protocol",
+                "Dynamic Host Control Program",
+                "Digital Host Configuration Program"
+            ],
+            "correct_answer": 0,
+            "explanation": "DHCP automatically assigns IP addresses to network devices."
+        },
+        {
+            "question_text": "What is a proxy server?",
+            "options": [
+                "An intermediary for network requests",
+                "A network security device",
+                "A network monitoring tool",
+                "A network management system"
+            ],
+            "correct_answer": 0,
+            "explanation": "A proxy server acts as an intermediary for network requests."
+        }
+    ],
+    "null": [
+        {
+            "question_text": "What is the purpose of the DOCTYPE declaration in HTML?",
+            "options": [
+                "To specify the HTML version and document type",
+                "To link external CSS files",
+                "To define the document title",
+                "To include JavaScript code"
+            ],
+            "correct_answer": 0,
+            "explanation": "The DOCTYPE declaration specifies the HTML version and document type being used."
+        },
+        {
+            "question_text": "Which CSS property is used to make text bold?",
+            "options": [
+                "font-weight",
+                "text-weight",
+                "bold-text",
+                "text-style"
+            ],
+            "correct_answer": 0,
+            "explanation": "font-weight is used to specify the weight (boldness) of text."
+        },
+        {
+            "question_text": "What is the purpose of the 'use strict' directive in JavaScript?",
+            "options": [
+                "Enforces stricter parsing and error handling",
+                "Makes the code run faster",
+                "Enables new JavaScript features",
+                "Disables all error checking"
+            ],
+            "correct_answer": 0,
+            "explanation": "'use strict' enables strict mode which enforces stricter parsing and error handling."
+        }
+    ],
+    "data_science": [
+        {
+            "question_text": "Which of the following is a supervised machine learning algorithm?",
+            "options": [
+                "Linear Regression",
+                "K-Means Clustering",
+                "Decision Trees",
+                "Principal Component Analysis"
+            ],
+            "correct_answer": 0,
+            "explanation": "Linear Regression is a supervised learning algorithm used for regression tasks."
+        },
+        {
+            "question_text": "What does the acronym 'RMSE' stand for in data science?",
+            "options": [
+                "Root Mean Square Error",
+                "Random Mean Square Estimation",
+                "Regularized Mean Square Error",
+                "Recursive Mean Square Evaluation"
+            ],
+            "correct_answer": 0,
+            "explanation": "RMSE stands for Root Mean Square Error, a measure of the differences between values predicted by a model and the values actually observed."
+        },
+        {
+            "question_text": "Which of the following is a type of unsupervised learning?",
+            "options": [
+                "Logistic Regression",
+                "Naive Bayes",
+                "Support Vector Machines",
+                "Hierarchical Clustering"
+            ],
+            "correct_answer": 3,
+            "explanation": "Hierarchical Clustering is a type of unsupervised learning used for clustering tasks."
+        },
+        {
+            "question_text": "Which of the following is a disadvantage of using decision trees?",
+            "options": [
+                "Overfitting",
+                "High bias",
+                "Interpretability",
+                "Handling categorical variables"
+            ],
+            "correct_answer": 0,
+            "explanation": "Decision trees are prone to overfitting, meaning they may not generalize well to new data."
+        },
+        {
+            "question_text": "What does the term 'p-value' represent in hypothesis testing?",
+            "options": [
+                "Probability of the null hypothesis being true",
+                "Probability of the alternative hypothesis being true",
+                "Probability of observing the data if the null hypothesis is true",
+                "Probability of observing the data if the alternative hypothesis is true"
+            ],
+            "correct_answer": 2,
+            "explanation": "The p-value represents the probability of observing the data if the null hypothesis is true."
+        },
+        {
+            "question_text": "Which of the following is not a type of feature scaling?",
+            "options": [
+                "Standardization",
+                "Normalization",
+                "Binning",
+                "Logarithmic transformation"
+            ],
+            "correct_answer": 2,
+            "explanation": "Binning is not a type of feature scaling. Standardization and normalization are methods of scaling numerical data, while logarithmic transformation is a method of transforming data."
+        },
+        {
+            "question_text": "Which of the following is a disadvantage of using principal component analysis (PCA)?",
+            "options": [
+                "Loss of interpretability",
+                "Handling categorical variables",
+                "Preserving relationships between variables",
+                "Reducing dimensionality"
+            ],
+            "correct_answer": 0,
+            "explanation": "PCA can result in a loss of interpretability, as the new features (principal components) are linear combinations of the original features."
+        },
+        {
+            "question_text": "Which of the following is a type of regression used for binary classification tasks?",
+            "options": [
+                "Linear Regression",
+                "Logistic Regression",
+                "Poisson Regression",
+                "Polynomial Regression"
+            ],
+            "correct_answer": 1,
+            "explanation": "Logistic Regression is a type of regression used for binary classification tasks."
+        },
+        {
+            "question_text": "Which of the following is a type of bias in machine learning models?",
+            "options": [
+                "Algorithmic bias",
+                "Data bias",
+                "Label bias",
+                "Sampling bias"
+            ],
+            "correct_answer": 0,
+            "explanation": "Algorithmic bias refers to bias that is introduced by the machine learning algorithm itself."
+        },
+        {
+            "question_text": "Which of the following is a disadvantage of using k-nearest neighbors (KNN) for classification tasks?",
+            "options": [
+                "Handling large datasets",
+                "Interpretability",
+                "High bias",
+                "Sensitivity to irrelevant features"
+            ],
+            "correct_answer": 0,
+            "explanation": "KNN can be computationally expensive for large datasets, as it requires storing and accessing the entire dataset during prediction."
+        }
+    ],
+    "solana developer\n": [
+        {
+            "question_text": "What is the programming language used to write smart contracts in Solana?",
+            "options": [
+                "Rust",
+                "Solidity",
+                "C++",
+                "JavaScript"
+            ],
+            "correct_answer": 0,
+            "explanation": "Rust is the programming language used to write smart contracts in Solana."
+        },
+        {
+            "question_text": "Which consensus algorithm does Solana use?",
+            "options": [
+                "Proof of Work",
+                "Proof of Stake",
+                "Proof of History",
+                "Delegated Proof of Stake"
+            ],
+            "correct_answer": 2,
+            "explanation": "Solana uses the Proof of History consensus algorithm."
+        },
+        {
+            "question_text": "What is the name of Solana's virtual machine?",
+            "options": [
+                "Ethereum Virtual Machine",
+                "WebAssembly",
+                "Solana Virtual Machine",
+                "EOS VM"
+            ],
+            "correct_answer": 2,
+            "explanation": "Solana's virtual machine is called Solana Virtual Machine."
+        },
+        {
+            "question_text": "What is the maximum number of transactions per second that Solana can handle?",
+            "options": [
+                "1000",
+                "10000",
+                "100000",
+                "1000000"
+            ],
+            "correct_answer": 3,
+            "explanation": "Solana can handle up to 1,000,000 transactions per second."
+        },
+        {
+            "question_text": "Which of the following is a feature of Solana's Sealevel architecture?",
+            "options": [
+                "Parallel processing",
+                "Virtual machine isolation",
+                "Account versioning",
+                "Transaction sharding"
+            ],
+            "correct_answer": 0,
+            "explanation": "Solana's Sealevel architecture allows for parallel processing of smart contracts."
+        },
+        {
+            "question_text": "What is the name of Solana's on-chain governance system?",
+            "options": [
+                "Proof of Authority",
+                "Delegated Proof of Stake",
+                "Solana Improvement Proposal",
+                "Solana Governance Council"
+            ],
+            "correct_answer": 2,
+            "explanation": "Solana's on-chain governance system is called Solana Improvement Proposal (SIP)."
+        },
+        {
+            "question_text": "What is the name of Solana's token standard for creating non-fungible tokens?",
+            "options": [
+                "ERC-721",
+                "NEP-17",
+                "SOL-721",
+                "SPL-721"
+            ],
+            "correct_answer": 3,
+            "explanation": "Solana's token standard for creating non-fungible tokens is SPL-721."
+        },
+        {
+            "question_text": "Which of the following is a tool for deploying smart contracts on Solana?",
+            "options": [
+                "Truffle",
+                "Hardhat",
+                "Anchor",
+                "Brownie"
+            ],
+            "correct_answer": 2,
+            "explanation": "Anchor is a tool for deploying smart contracts on Solana."
+        },
+        {
+            "question_text": "What is the name of Solana's JSON-RPC API?",
+            "options": [
+                "Web3.js",
+                "Ethers.js",
+                "Solana-web3.js",
+                "Solana-JSON-RPC-API"
+            ],
+            "correct_answer": 2,
+            "explanation": "Solana's JSON-RPC API is called Solana-web3.js."
+        },
+        {
+            "question_text": "What is the maximum number of accounts that can be processed in a single Solana transaction?",
+            "options": [
+                "100",
+                "1000",
+                "10000",
+                "100000"
+            ],
+            "correct_answer": 1,
+            "explanation": "The maximum number of accounts that can be processed in a single Solana transaction is 1000."
+        }
+    ],
+    "Java Developer": [
+        {
+            "question_text": "What is the primary difference between an abstract class and an interface in Java?",
+            "options": [
+                "An abstract class can provide method implementation, while an interface cannot.",
+                "An abstract class can have instance variables, while an interface cannot.",
+                "An interface can extend another interface, while an abstract class cannot.",
+                "Both abstract classes and interfaces cannot have instance variables."
+            ],
+            "correct_answer": 0,
+            "explanation": "An abstract class can provide method implementation and have instance variables, whereas an interface can only contain abstract methods and constants."
+        },
+        {
+            "question_text": "Which exception should be used to handle issues related to input/output operations in Java?",
+            "options": [
+                "IOException",
+                "RuntimeException",
+                "IllegalArgumentException",
+                "NullPointerException"
+            ],
+            "correct_answer": 0,
+            "explanation": "IOException is used to handle issues related to input/output operations in Java."
+        },
+        {
+            "question_text": "What is the purpose of the 'final' keyword in Java method declarations?",
+            "options": [
+                "Prevents method overloading.",
+                "Prevents method overriding.",
+                "Makes the method mandatory to implement in subclasses.",
+                "Makes the method return type flexible."
+            ],
+            "correct_answer": 1,
+            "explanation": "The 'final' keyword in Java method declarations prevents method overriding in subclasses."
+        },
+        {
+            "question_text": "What does the 'volatile' keyword in Java ensure?",
+            "options": [
+                "Atomicity of a variable.",
+                "Thread safety.",
+                "Visibility of a variable across threads.",
+                "Immutability of a variable."
+            ],
+            "correct_answer": 2,
+            "explanation": "The 'volatile' keyword in Java ensures visibility of a variable across threads."
+        },
+        {
+            "question_text": "Which collection class implements a growable array?",
+            "options": [
+                "ArrayList",
+                "LinkedList",
+                "HashSet",
+                "Vector"
+            ],
+            "correct_answer": 3,
+            "explanation": "Vector implements a growable array in Java."
+        },
+        {
+            "question_text": "What is the base class for all exception classes in Java?",
+            "options": [
+                "Throwable",
+                "Exception",
+                "RuntimeException",
+                "Error"
+            ],
+            "correct_answer": 0,
+            "explanation": "Throwable is the base class for all exception classes in Java."
+        },
+        {
+            "question_text": "What is the difference between checked and unchecked exceptions in Java?",
+            "options": [
+                "Checked exceptions are checked during compile-time, while unchecked exceptions are checked during runtime.",
+                "Checked exceptions are runtime exceptions, while unchecked exceptions are compile-time exceptions.",
+                "Checked exceptions need to be declared in method signatures, while unchecked exceptions do not.",
+                "Unchecked exceptions are not subclasses of Exception, while checked exceptions are."
+            ],
+            "correct_answer": 2,
+            "explanation": "Checked exceptions need to be declared in method signatures, while unchecked exceptions do not in Java."
+        },
+        {
+            "question_text": "What is the purpose of the 'synchronized' keyword in Java?",
+            "options": [
+                "Makes a block of code atomic.",
+                "Makes a class or method immutable.",
+                "Makes a block of code thread-safe.",
+                "Makes a variable volatile."
+            ],
+            "correct_answer": 2,
+            "explanation": "The 'synchronized' keyword in Java makes a block of code thread-safe."
+        },
+        {
+            "question_text": "What is the difference between 'equals()' and '==' in Java?",
+            "options": [
+                "'==' checks for object equality, while 'equals()' checks for value equality.",
+                "'equals()' checks for object equality, while '==' checks for value equality.",
+                "'==' checks for reference equality, while 'equals()' checks for value equality.",
+                "Both '==' and 'equals()' check for reference equality."
+            ],
+            "correct_answer": 2,
+            "explanation": "'==' checks for reference equality, while 'equals()' checks for value equality in Java."
+        },
+        {
+            "question_text": "What is the purpose of the 'transient' keyword in Java?",
+            "options": [
+                "Makes a variable volatile.",
+                "Makes a variable thread-safe.",
+                "Makes a variable persistent across serialization.",
+                "Prevents a variable from being serialized."
+            ],
+            "correct_answer": 3,
+            "explanation": "The 'transient' keyword in Java prevents a variable from being serialized."
+        }
+    ],
+    "database administrator": [
+        {
+            "question_text": "What is the primary role of a database administrator?",
+            "options": [
+                "Designing and creating databases",
+                "Managing database security",
+                "Maintaining database performance",
+                "All of the above"
+            ],
+            "correct_answer": 3,
+            "explanation": "A database administrator is responsible for designing, creating, managing database security, and maintaining database performance."
+        },
+        {
+            "question_text": "Which of the following is a type of database normalization?",
+            "options": [
+                "First normal form (1NF)",
+                "Second normal form (2NF)",
+                "Third normal form (3NF)",
+                "All of the above"
+            ],
+            "correct_answer": 3,
+            "explanation": "First normal form (1NF), Second normal form (2NF), and Third normal form (3NF) are all types of database normalization."
+        },
+        {
+            "question_text": "What is the purpose of an index in a database?",
+            "options": [
+                "To improve query performance",
+                "To store data",
+                "To manage database security",
+                "To backup data"
+            ],
+            "correct_answer": 0,
+            "explanation": "An index is used to improve query performance by providing a quick way to look up data in a database."
+        },
+        {
+            "question_text": "What is a clustered index in a database?",
+            "options": [
+                "An index that stores data in a non-clustered order",
+                "An index that stores data in a clustered order",
+                "An index that is not related to data storage",
+                "An index that is used for backup and recovery"
+            ],
+            "correct_answer": 1,
+            "explanation": "A clustered index stores data in a clustered order, meaning that the data is physically stored in the order of the index."
+        },
+        {
+            "question_text": "What is the difference between a left outer join and a right outer join in SQL?",
+            "options": [
+                "A left outer join returns all records from the left table, and matching records from the right table. A right outer join returns all records from the right table, and matching records from the left table",
+                "A left outer join returns all records from the left table, and matching records from the right table. A right outer join returns all records from the left table",
+                "A left outer join returns all records from the right table, and matching records from the left table. A right outer join returns all records from the right table, and matching records from the left table",
+                "A left outer join returns all records from the left table. A right outer join returns all records from the right table"
+            ],
+            "correct_answer": 0,
+            "explanation": "A left outer join returns all records from the left table, and matching records from the right table. A right outer join returns all records from the right table, and matching records from the left table."
+        },
+        {
+            "question_text": "What is a deadlock in a database?",
+            "options": [
+                "A situation where two transactions are waiting for each other to release locks",
+                "A situation where a transaction is blocked by a lock",
+                "A situation where a transaction is terminated due to a violation of a constraint",
+                "A situation where a transaction is rolled back due to an error"
+            ],
+            "correct_answer": 0,
+            "explanation": "A deadlock is a situation where two transactions are waiting for each other to release locks, causing both transactions to be stuck."
+        },
+        {
+            "question_text": "What is a stored procedure in a database?",
+            "options": [
+                "A precompiled collection of SQL statements",
+                "A table that stores data",
+                "A view that provides a way to look at data",
+                "A script that is used for backup and recovery"
+            ],
+            "correct_answer": 0,
+            "explanation": "A stored procedure is a precompiled collection of SQL statements that can be executed as a single unit."
+        },
+        {
+            "question_text": "What is a trigger in a database?",
+            "options": [
+                "A special type of stored procedure that is automatically executed when a specific event occurs",
+                "A table that stores data",
+                "A view that provides a way to look at data",
+                "A script that is used for backup and recovery"
+            ],
+            "correct_answer": 0,
+            "explanation": "A trigger is a special type of stored procedure that is automatically executed when a specific event occurs, such as inserting, updating, or deleting data."
+        },
+        {
+            "question_text": "What is a transaction in a database?",
+            "options": [
+                "A group of SQL statements that are executed as a single unit",
+                "A table that stores data",
+                "A view that provides a way to look at data",
+                "A script that is used for backup and recovery"
+            ],
+            "correct_answer": 0,
+            "explanation": "A transaction is a group of SQL statements that are executed as a single unit, ensuring that the database remains in a consistent state."
+        },
+        {
+            "question_text": "What is the difference between a primary key and a foreign key in a database?",
+            "options": [
+                "A primary key is a unique identifier for a row in a table. A foreign key is a reference to a primary key in another table",
+                "A primary key is a unique identifier for a column in a table. A foreign key is a reference to a primary key in the same table",
+                "A primary key is a unique identifier for a row in a table. A foreign key is a reference to a primary key in the same table",
+                "A primary key is a constraint that ensures data integrity. A foreign key is a column that is used to enforce referential integrity"
+            ],
+            "correct_answer": 0,
+            "explanation": "A primary key is a unique identifier for a row in a table, and a foreign key is a reference to a primary key in another table, enforcing referential integrity between the tables."
+        }
+    ]
+}
